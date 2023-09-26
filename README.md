@@ -1,1 +1,1 @@
-# FaceEmojify-Privacy-Policy
+# FaceAnonymify-Privacy-Policy
